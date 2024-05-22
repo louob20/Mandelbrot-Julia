@@ -1,0 +1,16 @@
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\bin\Debug\netcoreapp3.1\Mandelbrot.exe
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\bin\Debug\netcoreapp3.1\Mandelbrot.deps.json
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\bin\Debug\netcoreapp3.1\Mandelbrot.runtimeconfig.json
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\bin\Debug\netcoreapp3.1\Mandelbrot.runtimeconfig.dev.json
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\bin\Debug\netcoreapp3.1\Mandelbrot.dll
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\bin\Debug\netcoreapp3.1\Mandelbrot.pdb
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.csproj.AssemblyReference.cache
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.Form1.resources
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.csproj.GenerateResource.cache
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.AssemblyInfoInputs.cache
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.AssemblyInfo.cs
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.dll
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.pdb
+C:\Users\louie\source\repos\C#\Mandelbrot\Mandelbrot\obj\Debug\netcoreapp3.1\Mandelbrot.genruntimeconfig.cache
